@@ -2,5 +2,5 @@
     "python.analysis.extraPaths": [
         "./base/templates/base"
     ],
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": false
 }
