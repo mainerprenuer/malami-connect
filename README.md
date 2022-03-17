@@ -53,7 +53,7 @@ python manage.py runserver
 
 #
 
-### Mainerprenuer
+### Mainer Innovative Concepts
 
 
 
