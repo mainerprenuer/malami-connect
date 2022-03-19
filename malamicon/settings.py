@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-o-^nf23rp2p_0%18+w#a4n8#)u%6df9%e&$0oo8ca2t5k^aibt'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['malami-connect.herokuapp.com','127.0.0.1']
 
 
 # Application definition
