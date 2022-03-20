@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath malami-connect malami-connect.wsgi
+web: gunicorn --pythonpath malami-connect.wsgi
