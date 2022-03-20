@@ -1,1 +1,1 @@
-web: gunicorn malami-connect.wsgi --log-file -
+web: gunicorn malami-connect malami-connect.wsgi
