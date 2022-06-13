@@ -1,1 +1,1 @@
-web: gunicorn malamicon.wsgi
+web: gunicorn malamicon.wsgi --log-file -
